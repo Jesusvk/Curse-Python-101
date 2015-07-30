@@ -1,1 +1,6 @@
-Repositorio con codigos sobre diversas formas de manipular listas, diccionarios, string
+#Ejemplos basicos 
+
+-manipular 
+-listas
+-diccionarios
+-string
