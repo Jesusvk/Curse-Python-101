@@ -46,7 +46,7 @@ def select_from_deck():
 ######################
 @app.route('/')
 def index():
-	init_game()
+	init_game()	
 	return render_template("index.html")
 
 
